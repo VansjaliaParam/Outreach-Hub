@@ -93,19 +93,4 @@ Multi-tenant structure:
 - Angular CLI
 - NestJS CLI
 
-### Installation
 
-```bash
-# Clone repo
-git clone https://github.com/your-username/outreachhub.git
-cd outreachhub
-
-# Backend
-cd backend
-npm install
-npm run start:dev
-
-# Frontend
-cd ../frontend
-npm install
-ng serve
